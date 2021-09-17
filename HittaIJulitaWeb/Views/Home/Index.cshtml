@@ -3,6 +3,11 @@
     ViewData["Title"] = "Home page";
 }
 
+@if (ViewBag.ErrorMessage != null)
+{
+    <div class="alert alert-danger">@ViewBag.ErrorMessage</div>
+}
+
 <div class="text-center">
     <h1 class="display-4">Välkommen</h1>
     <p>Detta är en tjänst som hjälper dig att hitta i Julita</p>

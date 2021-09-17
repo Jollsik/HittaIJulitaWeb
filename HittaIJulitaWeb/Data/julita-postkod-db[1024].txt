@@ -1,0 +1,216 @@
+Gatuplats;Postnummer;Plats
+Berg Bergåker;643 96;Julita
+Gimgöl Kårtorp;643 98;Julita
+Fågelsta Nerstugan;643 96;Julita
+Gimgöl Anderslund;643 98;Julita
+Backa-Leby;643 96;Julita
+Botten Östergård;643 96;Julita
+Fiskeboda Strömbacken;643 98;Julita
+Gimgöl Björklunda;643 98;Julita
+Aspenäs;643 96;Julita
+Backa Oppstugan;643 96;Julita
+Björkmon;643 96;Julita
+Fågelsta Vita Huset;643 96;Julita
+Gimgöl Hagtorp;643 98;Julita
+Gimgöl Edsvik;643 98;Julita
+Fågelsta Solåker;643 96;Julita
+Fiskeboda Mörten;643 98;Julita
+Fiskeboda Allén;643 98;Julita
+Höjdgatan;643 60;Julita
+Fiskeboda Eksjö;643 98;Julita
+Fiskeboda Herrgården;643 98;Julita
+Gimgöl Kårtorp;643 98;Julita
+Backa Trosa;643 96;Julita
+Fiskeboda Hamnfogdebostaden;643 98;Julita
+Gimgöl Granliden;643 98;Julita
+Båsbo Solbacken;643 96;Julita
+Bäck Bergåsa;643 98;Julita
+Backa Lida Kvarn;643 96;Julita
+Fiskeboda Siken;643 98;Julita
+Fågelsta Mejeriet;643 96;Julita
+Fiskeboda Löjan;643 98;Julita
+Botten Östergård;643 96;Julita
+Gimgöl Johannisberg;643 98;Julita
+Sörbygatan;643 60;Julita
+Gimgöl Granebo;643 98;Julita
+Björkhem;643 96;Julita
+Fiskeboda Hjälmarsnäs;643 98;Julita
+Gimgöl Kolpussen;643 98;Julita
+Fiskeboda Braxen;643 98;Julita
+Ringvägen;643 60;Julita
+Backa Lilla Fall;643 96;Julita
+Beatelund;643 98;Julita
+Bäck Bergåsa;643 98;Julita
+Geteboda;643 96;Julita
+Fiskeboda Björknäs;643 98;Julita
+Björkhem;643 96;Julita
+Gimgöl Granebo;643 98;Julita
+Backa Lida Kvarn;643 96;Julita
+Gimgöl Hagberga;643 98;Julita
+Björkgatan;643 60;Julita
+Backa Karlsro;643 96;Julita
+Berg Tallmon;643 98;Julita
+Fiskeboda Gösen;643 98;Julita
+Aspegården;643 96;Julita
+Backa-Leby;643 96;Julita
+Gimgöl Gustavsberg;643 98;Julita
+Gimgöl Björklunda;643 98;Julita
+Ängsgatan;643 60;Julita
+Fågelsta Hagbacken;643 96;Julita
+Prästgatan;643 60;Julita
+Vithällagatan;643 60;Julita
+Bergs Gård;643 96;Julita
+Berg Skräddarstugan;643 96;Julita
+Bottentorp;643 96;Julita
+Doktorsvägen;643 60;Julita
+Båsbo;643 96;Julita
+Backa-Leby;643 96;Julita
+Gimgöl Dagsjöholm;643 98;Julita
+Fågelsta Flygeln;643 96;Julita
+Fågelsta Dyben;643 96;Julita
+Berg Rosendal;643 96;Julita
+Gimgöl Björklunda;643 98;Julita
+Fågelsta Gölsbacken;643 96;Julita
+Fiskeboda Ekbacken;643 98;Julita
+Gimgöl Dagsjötorp;643 98;Julita
+Fiskeboda Sandvik;643 98;Julita
+Berg Tallmon;643 98;Julita
+Fågelsta Stora Huset;643 96;Julita
+Bäck;643 98;Julita
+Bärsta;643 96;Julita
+Fågelsta Skogvaktarbostaden;643 96;Julita
+Båsbo Björkbacka;643 96;Julita
+Björkhem;643 96;Julita
+Berg Bergåker;643 96;Julita
+Fågelsta Helenelund;643 96;Julita
+Fiskeboda Björknäs;643 98;Julita
+Botten Kolbäck;643 96;Julita
+Åkervägen;643 60;Julita
+Backa Lilla Fall;643 96;Julita
+Geteboda Ebbetorp;643 96;Julita
+Fiskeboda Herrgården;643 98;Julita
+Geteboda Agnestugan;643 96;Julita
+Fågelsta Hagbacken;643 96;Julita
+Båsbo Lustgården;643 96;Julita
+Vinkelgatan;643 60;Julita
+Berg Perstorp;643 96;Julita
+Geteboda;643 96;Julita
+Gimgöl Ekeborg;643 98;Julita
+Gimgöl Granliden;643 98;Julita
+Aspstigen;643 96;Julita
+Fågelsta Solåker;643 96;Julita
+Båsbo Björkbacka;643 96;Julita
+Björkhem;643 96;Julita
+Berg Bergåker;643 96;Julita
+Fågelsta Helenelund;643 96;Julita
+Fiskeboda Björknäs;643 98;Julita
+Botten Kolbäck;643 96;Julita
+Åkervägen;643 60;Julita
+Backa Lilla Fall;643 96;Julita
+Geteboda Ebbetorp;643 96;Julita
+Fiskeboda Herrgården;643 98;Julita
+Geteboda Agnestugan;643 96;Julita
+Fågelsta Hagbacken;643 96;Julita
+Båsbo Lustgården;643 96;Julita
+Vinkelgatan;643 60;Julita
+Berg Perstorp;643 96;Julita
+Geteboda;643 96;Julita
+Gimgöl Ekeborg;643 98;Julita
+Gimgöl Granliden;643 98;Julita
+Aspstigen;643 96;Julita
+Fågelsta Solåker;643 96;Julita
+Fiskeboda Abborren;643 98;Julita
+Fågelsta Lilla Ulfåsa;643 96;Julita
+Gimgöl Erikslund;643 98;Julita
+Fågelsta Flygeln;643 96;Julita
+Fågelsta Mejeriet;643 96;Julita
+Backa;643 96;Julita
+Fågelsta Garaget;643 96;Julita
+Gimgöl Högalid;643 98;Julita
+Botten Östergård;643 96;Julita
+Gimgöl Holkedalen;643 98;Julita
+Berg Sofielund;643 98;Julita
+Gimgöl Dammtorp;643 98;Julita
+Backa Trosa;643 96;Julita
+Gimgöl Dagsjötorp;643 98;Julita
+Aspenäs;643 96;Julita
+Backa Baggetorp;643 96;Julita
+Geteboda Annelund;643 96;Julita
+Gimgöl Ekbacken;643 98;Julita
+Gimgöl Hälleråd;643 98;Julita
+Forsby Forsbrotorp;643 98;Julita
+Gimgöl Ekbacka;643 98;Julita
+Fagerbjörk;643 98;Julita
+Båsbo Lustgården;643 96;Julita
+Gimgöl Dammtorp;643 98;Julita
+Erstorp Björkbacken;643 96;Julita
+Gimgöl Björkhaga;643 98;Julita
+Fågelsta Mejeriet;643 96;Julita
+Beatelund;643 98;Julita
+Fågelsta Flygeln;643 96;Julita
+Fiskeboda Mörten;643 98;Julita
+Botten Kolbäck;643 96;Julita
+Backa Stora Fall;643 96;Julita
+Elisabeth Tamms väg;643 60;Julita
+Kyrkvägen;643 60;Julita
+Geteboda Gård;643 96;Julita
+Gimgöl Kärret;643 98;Julita
+Fiskeboda Asken;643 98;Julita
+Hemgårdsvägen;643 60;Julita
+Fiskeboda Villan;643 98;Julita
+Fiskeboda Sjöstugan;643 98;Julita
+Gimmerstavägen;643 60;Julita
+Gimgöl Källberget;643 98;Julita
+Gimgöl Eneborg;643 98;Julita
+Fiskeboda Hjälmarsvik;643 98;Julita
+Edsviksvägen;643 98;Julita
+Fiskeboda Campingen;643 98;Julita
+Båsbo Björkbacka;643 96;Julita
+Gimgöl Forsbron;643 98;Julita
+Berg Skräddarstugan;643 96;Julita
+Fiskeboda Sjölunda;643 98;Julita
+Botten Transformatorstationen;643 96;Julita
+Geteboda Dammkärr;643 96;Julita
+Österåkersgatan;643 60;Julita
+Gimgöl Gluggen;643 98;Julita
+Gimgöl Gustavsberg;643 98;Julita
+Fågelsta Hagbacken;643 96;Julita
+Backa Lötmanstorp;643 96;Julita
+Berg Rosendal;643 96;Julita
+Gimgöl Högalid;643 98;Julita
+Gimgöl Granebo;643 98;Julita
+Björkhem;643 96;Julita
+Fiskeboda Hamnfogdebostaden;643 98;Julita
+Gimgöl Kolpussen;643 98;Julita
+Gimgöl Hasselbacken;643 98;Julita
+Geteboda Enebo;643 96;Julita
+Gimgöl Forsbron;643 98;Julita
+Gimgöl Holkedalen;643 98;Julita
+Björklund;643 96;Julita
+Fiskeboda Västra Sandvik;643 98;Julita
+Geteboda Björnstugan;643 96;Julita
+Gimgöl Ekeborg;643 98;Julita
+Erstorp Nystugan;643 96;Julita
+Berg Sofielund;643 98;Julita
+Gimgöl Hagberga;643 98;Julita
+Fäboda;643 96;Julita
+Fågelsta Gölsbacken;643 96;Julita
+Skolvägen;643 60;Julita
+Äsköping Reningsanläggningen;643 60;Julita
+Aspegården;643 96;Julita
+Väktargatan;643 60;Julita
+Båsbo;643 96;Julita
+Fågelsta Gattorp;643 96;Julita
+Bärsta;643 96;Julita
+Fäboda;643 96;Julita
+Fiskeboda Lucketorp;643 98;Julita
+Båsbo Norrgården;643 96;Julita
+Backa;643 96;Julita
+Doktorsvägen;643 60;Julita
+Torggatan;643 60;Julita
+Gimgöl Hasselbacken;643 98;Julita
+Fågelsta Dyben;643 96;Julita
+Fiskeboda Hjälmarsnäs;643 98;Julita
+Backa Lötmanstorp;643 96;Julita
+Erstorp Nystugan;643 96;Julita
+Båsbo Solbacken;643 96;Julita

@@ -1,0 +1,42 @@
+﻿@model List<HittaIJulitaWeb.ViewModels.SearchViewModel>
+
+<div class="card" style="padding:20px;">
+    @if (Model.Count() == 0)
+    {
+        <p>Tyvärr hittades inga platser</p>
+    }
+    else
+    {
+        <table class="table-responsive-sm table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        Gatuplats
+                    </th>
+                    <th>
+                        Postnummer
+                    </th>
+                    <th>
+                        Plats
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var row in Model)
+                {
+                    <tr>
+                        <td>
+                            @row.GatuPlats
+                        </td>
+                        <td>
+                            @row.Postnummer
+                        </td>
+                        <td>
+                            @row.Plats
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
