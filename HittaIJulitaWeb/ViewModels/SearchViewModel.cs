@@ -7,8 +7,8 @@ namespace HittaIJulitaWeb.ViewModels
 {
     public class SearchViewModel
     {
-        public string GatuPlats { get; set; }
-        public string Postnummer { get; set; }
-        public string Plats { get; set; }
+        public string Street { get; set; }
+        public string PostalCode { get; set; }
+        public string Place { get; set; }
     }
 }
